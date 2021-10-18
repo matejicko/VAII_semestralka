@@ -1,16 +1,13 @@
 a{
     color: white;
-    text-underline: none;
 }
 
 a:link{
     color: white;
-    text-underline: none;
 }
 
 a:visited{
     color: white;
-    text-underline: none;
 }
 
 ul{
@@ -86,15 +83,14 @@ body{
 }
 
 .vlajka{
-    max-height: 30pt;
+    max-height: 32pt;
     border-radius: 5pt;
+    float: right;
 }
 
 .contact-menu{
     padding: 2%;
     margin: auto;
-    alignment-baseline: center;
-    align-items: center;
 }
 
 .tmava-ikona{
