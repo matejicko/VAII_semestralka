@@ -1,3 +1,7 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
 a{
     color: white;
 }
@@ -20,11 +24,14 @@ p{
 
 
 h1, h2, h3, h4, h5, h6{
-    font-family: "Montserrat SemiBold";
+    font-family: "Montserrat";
+    font-weight: 600;
 }
 
 .caption-box{
-    font-family: "Montserrat Medium";
+    font-family: "Montserrat";
+    font-weight: 600;
+
     color: white;
     text-shadow: 2px 2px 6px #000000;
 }
@@ -89,7 +96,7 @@ body{
 }
 
 .contact-menu{
-    padding: 2%;
+    padding: 2% 0;
     margin: auto;
 }
 
